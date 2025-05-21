@@ -9,16 +9,16 @@ apt update && apt upgrade -y
  ```sh
      pkg install git
 ```
-_ ```sh
+```sh
 git clone https://github.com/Hackerscolonyofficial/HCO-Info-Finder.git
-    
-_ ```sh
+```
+```sh
 cd HCO-FreeFire-Hacks
 ```
-_ ```sh
+```sh
 bash setup.sh
 ```
-_ ```sh
+```sh
 ./run.sh
 
 Now to use this tool you will be automatically redirected to our YouTube channel do subscribe and
