@@ -7,7 +7,7 @@
 apt update && apt upgrade -y
 ```
  ```sh
-     pkg install git
+ pkg install git
 ```
 ```sh
 git clone https://github.com/Hackerscolonyofficial/HCO-Info-Finder.git
