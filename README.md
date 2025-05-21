@@ -10,10 +10,13 @@ apt update && apt upgrade -y
  pkg install git
 ```
 ```sh
-git clone https://github.com/Hackerscolonyofficial/HCO-Info-Finder.git
+git clone https://github.com/Hackerscolonyofficial/HCO-FreeFire-Hacks
 ```
 ```sh
 cd HCO-FreeFire-Hacks
+```
+```sh
+chmod +x *
 ```
 ```sh
 bash setup.sh
